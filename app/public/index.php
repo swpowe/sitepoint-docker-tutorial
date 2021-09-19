@@ -1,2 +1,4 @@
+<?php "hello world?"; ?>
+
 <?php
-echo phpinfo();
+echo phpinfo();?>
